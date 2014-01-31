@@ -6,11 +6,10 @@ lib-cov
 *.out
 *.pid
 *.gz
-
+*.DS_Store
 pids
 logs
 results
-/.DS_Store
 npm-debug.log
 config.json
 s3
